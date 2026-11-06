@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FadeGlide",
+    "description": "Fades the volume out and back in between tracks. Not a true crossfade: a volume-based transition with an adjustable fade length and album-gapless option.",
+    "main": "fadeglide.js",
+    "readme": "README.md",
+    "preview": "preview.png",
+    "authors": [
+      {
+        "name": "YOUR_NAME",
+        "url": "https://github.com/YOUR_USERNAME"
+      }
+    ],
+    "tags": ["fade", "transition", "volume", "playback"]
+  }
+]
