@@ -8,6 +8,8 @@ A [Spicetify](https://spicetify.app) extension that smooths the transition betwe
 >
 > What FadeGlide actually does is adjust the player volume: **fade out, brief silence while the next track loads, fade in.** You will hear a short dip between songs. It sounds smoother than a hard cut, but it is a different effect from crossfade, and it will not sound like Spotify's or Apple Music's.
 
+![FadeGlide settings panel](preview.png)
+
 ## What it does
 
 - Fades the last few seconds of each track out, then fades the next track in.
